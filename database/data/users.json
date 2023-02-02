@@ -1,0 +1,112 @@
+[
+  {
+    "first_name": "John",
+    "last_name": "Doe",
+    "address": "123 Main Street",
+    "post_code": "12345",
+    "contact_number": "555-555-5555",
+    "email": "johndoe@example.com",
+    "username": "admin",
+    "password": "$2a$10$bHZiYnuhdOCBKlu.eAiodOlE1AvzWfdQgFETMl70nA/qCDnb0C2p6",
+    "admin": 1
+  },
+  {
+    "first_name": "Jane",
+    "last_name": "Doe",
+    "address": "456 Market Road",
+    "post_code": "67890",
+    "contact_number": "555-555-5556",
+    "email": "janedoe@example.com",
+    "username": "janedoe",
+    "password": "5f4dcc3b5aa765d61d8327deb882cf98",
+    "admin": 0
+  },
+  {
+    "first_name": "Tom",
+    "last_name": "Smith",
+    "address": "789 Park Ave",
+    "post_code": "10101",
+    "contact_number": "555-555-5557",
+    "email": "tomsmith@example.com",
+    "username": "tomsmith",
+    "password": "5f4dcc3b5aa765d61d8327deb882c997",
+    "admin": 0
+  },
+  {
+    "first_name": "Sara",
+    "last_name": "Johnson",
+    "address": "246 Elm Street",
+    "post_code": "09876",
+    "contact_number": "555-555-5558",
+    "email": "sarajohnson@example.com",
+    "username": "sarajohnson",
+    "password": "5f4dcc3b5aa765d61d8327deb882c996",
+    "admin": 0
+  },
+  {
+    "first_name": "David",
+    "last_name": "Brown",
+    "address": "135 Oak Lane",
+    "post_code": "54321",
+    "contact_number": "555-555-5559",
+    "email": "davidbrown@example.com",
+    "username": "davidbrown",
+    "password": "5f4dcc3b5aa765d61d8327deb882c995",
+    "admin": 0
+  },
+  {
+    "first_name": "Emily",
+    "last_name": "Davis",
+    "address": "864 Maple Street",
+    "post_code": "67890",
+    "contact_number": "555-555-5560",
+    "email": "emilydavis@example.com",
+    "username": "emilydavis",
+    "password": "5f4dcc3b5aa765d61d8327deb882c994",
+    "admin": 0
+  },
+  {
+    "first_name": "Michael",
+    "last_name": "Wilson",
+    "address": "291 Cherry Blvd",
+    "post_code": "11111",
+    "contact_number": "555-555-5561",
+    "email": "michaelwilson@example.com",
+    "username": "michaelwilson",
+    "password": "5f4dcc3b5aa765d61d8327deb882c993",
+    "admin": 0
+  },
+  {
+    "first_name": "Emily",
+    "last_name": "Jones",
+    "address": "159 Pine Ave",
+    "post_code": "22222",
+    "contact_number": "555-555-5562",
+    "email": "emilyjones@example.com",
+    "username": "emilyjones",
+    "password": "5f4dcc3b5aa765d61d8327deb882c992",
+    "admin": 0
+  },
+  {
+    "first_name": "William",
+    "last_name": "Miller",
+    "address": "753 Cedar Road",
+    "post_code": "33333",
+    "contact_number": "555-555-5563",
+    "email": "williammiller@example.com",
+    "username": "williammiller",
+    "password": "5f4dcc3b5aa765d61d8327deb882c991",
+    "admin": 0
+  },
+  {
+    "first_name": "Ashley",
+    "last_name": "Taylor",
+    "address": "926 Maple Drive",
+    "post_code": "44444",
+    "contact_number": "555-555-5564",
+    "email": "ashleytaylor@example.com",
+    "username": "ashleytaylor",
+    "password": "5f4dcc3b5aa765d61d8327deb882c990",
+    "admin": 0
+  }
+]
